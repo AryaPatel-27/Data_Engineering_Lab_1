@@ -1,0 +1,16 @@
+city,province,country,province_code,timezone,population,latitude,longitude
+Toronto,Ontario,Canada,ON,America/Toronto,2794356,43.6532,-79.3832
+Mississauga,Ontario,Canada,ON,America/Toronto,717961,43.589,-79.6441
+Brampton,Ontario,Canada,ON,America/Toronto,656480,43.7315,-79.7624
+Vaughan,Ontario,Canada,ON,America/Toronto,323103,43.8563,-79.5085
+Markham,Ontario,Canada,ON,America/Toronto,338503,43.8561,-79.337
+Richmond Hill,Ontario,Canada,ON,America/Toronto,202022,43.8828,-79.4403
+Oakville,Ontario,Canada,ON,America/Toronto,213759,43.4675,-79.6877
+Burlington,Ontario,Canada,ON,America/Toronto,186948,43.3255,-79.799
+Kitchener,Ontario,Canada,ON,America/Toronto,256885,43.4516,-80.4925
+Waterloo,Ontario,Canada,ON,America/Toronto,121436,43.4643,-80.5204
+Cambridge,Ontario,Canada,ON,America/Toronto,138479,43.3616,-80.3144
+Hamilton,Ontario,Canada,ON,America/Toronto,569353,43.2557,-79.8711
+Ottawa,Ontario,Canada,ON,America/Toronto,1017449,45.4215,-75.6972
+London,Ontario,Canada,ON,America/Toronto,422324,42.9849,-81.2453
+Windsor,Ontario,Canada,ON,America/Toronto,233763,42.3149,-83.0364
